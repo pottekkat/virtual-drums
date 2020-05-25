@@ -25,6 +25,7 @@ Open the project folder after installing requirements and run:
 python virtual_drums.py
 ```
 
+You can use a green stick as your drumstick, I had a couple of green pens lying around.
 ## Contributing 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navendu-pottekkat/virtual-drums/issues)
 
