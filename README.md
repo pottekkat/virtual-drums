@@ -5,7 +5,7 @@
 
 This project use Open CV to create a virtual drum set. It uses color detection in a region of interest and plays the corresponding drum beat. The drums are shown in the video output and hitting the drums with a green object would make you able to virtually play it.
 
-Do give a star if you liked this project!
+Do give a star if you like this project!
 
 ![Preview](preview.gif)
 
