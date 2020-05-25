@@ -26,6 +26,11 @@ python virtual_drums.py
 ```
 
 You can use a green stick as your drumstick, I had a couple of green pens lying around.
+
+## Tutorial 
+
+I have written an [article](https://medium.com/@navendupottekkat/virtual-drum-set-using-opencv-ebcb1553c778) explaining how this works. Please check that out!
+
 ## Contributing 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navendu-pottekkat/virtual-drums/issues)
 
