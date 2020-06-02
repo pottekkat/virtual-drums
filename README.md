@@ -2,6 +2,7 @@
 [![HitCount](http://hits.dwyl.com/navendu-pottekkat/virtual-drums.svg)](http://hits.dwyl.com/navendu-pottekkat/virtual-drums)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navendu-pottekkat/virtual-drums/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Twitter](https://img.shields.io/twitter/follow/navendu_23.svg?style=social&label=@navendu_23)](https://twitter.com/navendu_23)
 
 This project use Open CV to create a virtual drum set. It uses color detection in a region of interest and plays the corresponding drum beat. The drums are shown in the video output and hitting the drums with a green object would make you able to virtually play it.
 
